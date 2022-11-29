@@ -18,12 +18,12 @@ This is a simple project on Antenna<br>
 
 <h4>CST Pic</h4>
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+  <img src="https://github.com/Gunasaikiran/Antenna/blob/main/cst.png" >
 </p>
 
 <h4>Fabricated Pic</h4>
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+  <img src="https://github.com/Gunasaikiran/Antenna/blob/main/Fabricated.png" >
 </p>
 
 Add a Star 🌟 to this 👆 Repository.<br>
